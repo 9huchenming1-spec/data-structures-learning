@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.exe
+*.obj
+*.o
+__pycache__/
+.vscode/
+*.vscode/
